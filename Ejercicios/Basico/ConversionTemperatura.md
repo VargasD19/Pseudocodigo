@@ -25,6 +25,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Conversión de Temperatura](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo5.png)
+![Diagrama de flujo - Conversión de Temperatura](../../Diagramas/DiagramaEjemplo5.png)
 
 [← Volver al README](../../README.md)

@@ -42,6 +42,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Calculadora Básica](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo4.png)
+![Diagrama de flujo - Calculadora Básica](../../Diagramas/DiagramaEjemplo4.png)
 
 [← Volver al README](../../README.md)

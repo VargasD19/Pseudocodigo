@@ -25,6 +25,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Area de un rectangulo](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo2.png)
+![Diagrama de flujo - Area de un rectangulo](../../Diagramas/DiagramaEjemplo2.png)
 
 [← Volver al README](../../README.md)

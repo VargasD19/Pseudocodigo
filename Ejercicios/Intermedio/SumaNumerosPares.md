@@ -26,6 +26,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Suma de Números Pares](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo6.png)
+![Diagrama de flujo - Suma de Números Pares](../../Diagramas/DiagramaEjemplo6.png)
 
 [← Volver al README](../../README.md)

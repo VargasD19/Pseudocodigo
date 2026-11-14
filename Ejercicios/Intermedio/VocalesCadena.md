@@ -30,6 +30,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Contar Vocales](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo8.png)
+![Diagrama de flujo - Contar Vocales](../../Diagramas/DiagramaEjemplo8.png)
 
 [← Volver al README](../../README.md)
