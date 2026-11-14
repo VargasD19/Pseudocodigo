@@ -24,6 +24,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Positivo, Negativo o Cero](../../Diagramas/DiagramaEjemplo3.png)
+![Diagrama de flujo - Positivo, Negativo o Cero](../../Diagramas/PosiNegaCero.png)
 
 [← Volver al README](../../README.md)

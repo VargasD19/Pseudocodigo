@@ -26,6 +26,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Serie Fibonacci](../../Diagramas/DiagramaEjemplo9.png)
+![Diagrama de flujo - Serie de Fibonacci](../../Diagramas/SerieFibonacci.png)
 
 [← Volver al README](../../README.md)

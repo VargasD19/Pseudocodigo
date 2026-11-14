@@ -31,6 +31,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Factorial de un Número](../../Diagramas/DiagramaEjemplo7.png)
+![Diagrama de flujo - Factorial de un Número](../../Diagramas/FactorialNumero.png)
 
 [← Volver al README](../../README.md)

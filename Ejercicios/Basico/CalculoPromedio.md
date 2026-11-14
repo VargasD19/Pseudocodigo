@@ -19,6 +19,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Calculo de Promedio](../../Diagramas/DiagramaEjemplo1.png)
+![Diagrama de flujo - Cálculo de Promedio](../../Diagramas/CalculoPromedio.png)
 
 [← Volver al README](../../README.md)
