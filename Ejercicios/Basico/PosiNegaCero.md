@@ -1,9 +1,10 @@
-#Enunciado 
+# Enunciado
+
 Positivo, Negativo o Cero: Leer un número entero y determinar si es positivo, negativo o cero. Mostrar un mensaje por cada caso.
 
-#Analisis
+# Analisis
 
-#Pseudocodigo
+# Pseudocodigo
 
 Algoritmo PositivoNegaticoCero
 	Definir nume Como Real
@@ -21,7 +22,8 @@ Algoritmo PositivoNegaticoCero
 	FinSi
 FinAlgoritmo
 
-#Diagrama de flujo
-![Diagrama de flujo - Calculo de Promedio](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo3,png)
+# Diagrama de flujo
+
+![Diagrama de flujo - Positivo, Negativo o Cero](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo3,png)
 
 [← Volver al README](../../README.md)

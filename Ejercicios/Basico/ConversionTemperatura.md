@@ -1,11 +1,13 @@
-#Enunciado 
+# Enunciado 
+
 Conversión de Temperatura: Leer una temperatura en grados Celsius y convertirla a grados Fahrenheit. Mostrar el resultado.
 
-#Analisis
+# Analisis
 
-#Pseudocodigo
+# Pseudocodigo
 
 Algoritmo ConversionTemperatura
+
 	Definir variable1 Como Real
 	Definir varianle2 Como Real
 	Definir celsius Como Real
@@ -21,7 +23,8 @@ Algoritmo ConversionTemperatura
 	
 FinAlgoritmo
 
-#Diagrama de flujo
-![Diagrama de flujo - Calculo de Promedio](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo5.png)
+# Diagrama de flujo
+
+![Diagrama de flujo - Conversión de Temperatura](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo5.png)
 
 [← Volver al README](../../README.md)

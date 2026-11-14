@@ -1,11 +1,13 @@
-#Enunciado 
-Área de un Rectángulo: Leer la base y la altura de un rectángulo, calcular y mostrar su área y su perímetro.
+# Enunciado
 
-#Analisis
+Calculadora Básica: Leer dos números enteros y una opción (1: Suma, 2: Resta, 3: Multiplicación, 4: División). Realizar la operación correspondiente y mostrar el resultado. Validar que no se divida por cero.
 
-#Pseudocodigo
+# Analisis
+
+# Pseudocodigo
 
 Algoritmo CalculadoraBasica
+
 	Definir nume1, nume2 Como Real
 	Definir opcio Como Entero
 	Definir resultado Como Real
@@ -38,7 +40,8 @@ Algoritmo CalculadoraBasica
 	
 FinAlgoritmo
 
-#Diagrama de flujo
-![Diagrama de flujo - Calculo de Promedio](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjempl4.png)
+# Diagrama de flujo
+
+![Diagrama de flujo - Calculadora Básica](/home/vargasd1/REPOSITORIO/Pseudocodigo/Diagramas/DiagramaEjemplo4.png)
 
 [← Volver al README](../../README.md)
