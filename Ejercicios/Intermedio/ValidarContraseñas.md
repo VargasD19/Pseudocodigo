@@ -40,6 +40,6 @@ FinAlgoritmo
 
 # Diagrama de flujo
 
-![Diagrama de flujo - Validar Contraseña](../../Diagramas/DiagramaEjemplo10.png)
+![Diagrama de flujo - Validar Contraseña](../../Diagramas/ValidarContraseña.png)
 
 [← Volver al README](../../README.md)
